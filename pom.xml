@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>jpa-demo</module>
+        <module>springboot-filter-interceptor</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

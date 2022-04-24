@@ -20,6 +20,10 @@ public class Person {
 
     private Integer age;
 
+    private Long companyId;
+
+    private Long schoolId;
+
     public Person(String name,Integer age){
         this.name=name;
         this.age=age;
